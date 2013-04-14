@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{lucasKanade}
+Takeo~Kanade Bruce D.~Lucas.
+\newblock {\em An Iterative Image Registration Technique with an Application to
+  Stereo Vision}.
+\newblock Computer Science Department Carnegie-Mellon University, Pittsburgh,
+  Pennsylvania 15213, 1981.
+
+\bibitem{marr}
+D.~Marr.
+\newblock {\em Vision. A Computational Investigation into the Human
+  Representation and Processing of Visual Information.}
+\newblock W.H. Freeman and Company., 1982.
+
+\bibitem{opticalflow}
+S.~S. Beauchemin.
+\newblock The computation of optical flow.
+\newblock {\em ACM Computing Surveys}, 1995.
+
+\end{thebibliography}
